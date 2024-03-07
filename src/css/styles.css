@@ -6,6 +6,8 @@
 */
 
 @import url('./reset.css');
+@import url('./main.css');
+
 
 ul {
   list-style-type: none;
